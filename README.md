@@ -2,6 +2,10 @@
 
 ### Software Engineer | Full-Stack Development | Backend Engineering | Cloud & AI Integration
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="380"/>
+</p>
+
 I build software systems that solve practical problems — from developing scalable backend services and designing database-driven applications to integrating cloud-based AI capabilities.
 
 Currently working at **Quantiphi**, contributing to enterprise technology solutions for the **Chicago Transit Authority (CTA)**. My work involves Node.js backend integrations, conversational AI platform migrations, Google Cloud services, BigQuery analytics, and automated notification systems.
